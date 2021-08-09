@@ -6,7 +6,7 @@ This repository is for the purpose of serving as a playground for modeling chaot
 ## Contents
 This repo is intended to cover the following topics:
 
-* Dynamic Mode Decoupling (DMD)
+* Dynamic Mode Decomposition (DMD)
 * Sparse Solutions for DMD
 * Koopman analysis
 * Spectral Koopman Analysis
