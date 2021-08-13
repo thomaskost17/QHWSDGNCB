@@ -10,6 +10,8 @@ This repo is intended to cover the following topics:
 * Sparse Solutions for DMD
 * Koopman analysis
 * Spectral Koopman Analysis
+    * Koopman Analysis for control
+* Neural Networks to perform Koopman Analysis
 
 ## Environment and Installation
 
